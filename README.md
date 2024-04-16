@@ -87,7 +87,7 @@ We installed the libraries pandas, TensorFlow, and NumPy for the code so that we
 
  
 
-6. Results 
+5. Results 
 
  
 
@@ -108,7 +108,7 @@ As stated in the first paragraph, we encountered some weird errors with the thre
 
 
  
-7. Conclusions and Future Work 
+6. Conclusions and Future Work 
 
  
 
